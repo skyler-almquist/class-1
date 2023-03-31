@@ -24,11 +24,20 @@ Gitpod: people code here to test the code and then submit back to the repository
 
 Gitpod: this has a timer for 2 hours so always make sure to save this and commit changes.
 
-Linux - LS = list 
+Linux commands
+
+LS = list 
+
 MKDIR - make directory
+
 CD - change directory
+
 .. - go up one directory
+
 touch - create new file - make sure to add the name and file type
+
 mv - move
+
 cp - copy
+
 crtl c - stops the infinite loop
