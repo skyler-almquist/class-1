@@ -11,3 +11,5 @@
 This is an example of a GitHub repository.
 
 I am enjoying my class and am having loads of fun. Please make fun of me - I take all jokes seriously. Words do break my bones. 
+
+Very excited to be learning more in this class. 
