@@ -17,5 +17,7 @@ Very excited to be learning more in this class.
 Testing testing testing.
 
 Gitpod: this is so awesome. TBD on some more changes 
+
 Gitpod: wow this is amazing and the green bars are what is not in the github code. this is purely just here. 
+
 Gitpod: people code here to test the code and then submit back to the repository; this is a trial environment 
